@@ -38,7 +38,7 @@ public class Main {
                     break;
                 default:
                     System.out.println("=================================");
-                    System.out.println("Pilihan Menu Tidak Tersedia!:(");
+                    System.out.println("Maaf Pilihan Menu Tidak Tersedia!:(");
                     System.out.println("");
                     input.nextLine();
                     continue;
